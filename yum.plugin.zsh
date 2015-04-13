@@ -2,7 +2,7 @@
 ## Aliases
 
 alias yms="yum search"
-alias ymi="yum info"
+alias ymn="yum info"
 alias yml="yum list"
 alias ymgl="yum grouplist"
 alias ymli="yum list installed"
